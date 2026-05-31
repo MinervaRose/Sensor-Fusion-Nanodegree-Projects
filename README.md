@@ -10,6 +10,16 @@
 
 ---
 
+<div align="center">
+
+<!-- Replace with your own certificate image -->
+
+<img src="certificate.png" width="700">
+
+</div>
+
+---
+
 ## Overview
 
 This repository serves as an index for a collection of projects completed while studying autonomous systems, sensor fusion, computer vision, tracking, localization, planning, and control.
