@@ -8,7 +8,6 @@
 ![Localization](https://img.shields.io/badge/Localization-State_Estimation-orange?style=for-the-badge)
 ![Planning](https://img.shields.io/badge/Planning-Path_Planning-red?style=for-the-badge)
 
----
 
 <div align="center">
 
@@ -18,7 +17,7 @@
 
 </div>
 
----
+
 
 ## Overview
 
